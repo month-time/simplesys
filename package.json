@@ -1,0 +1,20 @@
+{
+  "name": "simplesys",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/month-time/simplesys.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/month-time/simplesys/issues"
+  },
+  "homepage": "https://github.com/month-time/simplesys#readme"
+}
